@@ -164,6 +164,28 @@ main{
                 
             }
         }
+        .Share{
+            .Share--nav{
+                p{
+                    font-family: $min-font;
+                    margin: 0 25px;
+                }
+                ul{
+                    display: flex;
+                    justify-content: center;
+                    li{
+                        height: 50px;
+                        margin: 0 20px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        border-radius: 12px;
+                        background-color: rgba(22, 93, 245, 0.6);
+                    }
+                }
+                
+            }
+        }
     }
 
     
