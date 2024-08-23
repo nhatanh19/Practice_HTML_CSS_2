@@ -1,1 +1,24 @@
 @use "functions" as *;
+
+//Variables for responsive
+$small:429px;
+$mobiles:calc($small - 1px);
+$medium: 768px;
+$extra-large:1200px;
+$desktop: calc($extra-large);
+$tablet: calc($extra-large - 1px);
+$screen: 100vw;
+//Variables color
+// $background-color:#ffff;
+// $background-award-color:#2C2C2C;
+// $text-color-primary:#444444;
+// $text-color-second: #D9D9D6;
+// $active-element-color:#996830;
+// $boder-box-color:#E6D8CC;
+
+//font
+// $primary-font: lightOutfit;
+// $secondary-font: mediumOutfit;
+// $third-font: regularOutfit;
+// $fourth-font: regularPlayfairDisplay;
+// $temp-font: PTsansItalic;
