@@ -165,6 +165,7 @@ main{
             }
         }
         .Share{
+            background-color: rgba(196, 196, 196, 0.1);
             .Share--nav{
                 p{
                     font-family: $min-font;
@@ -176,14 +177,101 @@ main{
                     li{
                         height: 50px;
                         margin: 0 20px;
+                        color: white;
                         display: flex;
                         justify-content: center;
                         align-items: center;
                         border-radius: 12px;
+                        background-color: rgba(22, 93, 245, 0.18);
+                    }
+                    .Share--nav__box1{
                         background-color: rgba(22, 93, 245, 0.6);
                     }
                 }
-                
+            }
+            .Share--image-nav{
+                display: flex;
+                justify-content: space-around;
+                margin: 0 122px;
+                position: relative;
+                padding-bottom: 70px;
+                .Image--nav__box{
+                    width: 300px;
+                    height: 420px;
+                    padding: 17px;
+                    background-color: rgba(255, 255, 255, 1);
+                    img{
+                        width: 100%;
+                        height: 170px;
+                        border-radius: 8px 0;
+                    }
+                    .box--text{
+                        padding: 10px;
+                        h2{
+                            font-size: 1.5rem;
+                            font-weight: 600;
+                            font-family: $medium-font;
+                            margin: 13px 0;
+                        }
+                        p{
+                            font-family: $min-font;
+                            color: rgba(0, 0, 0, 0.4);
+                        }
+                        img{
+                            width: 16px;
+                            height: 16px;
+                        }
+                    }
+                }
+                .icon-next--right{
+                    width: 48px;
+                    height: 48px;
+                    position: absolute;
+                    top: 50%;
+                    right: -5%;
+                }
+            }
+        }
+        .ReviewCustomers{
+            h2{
+                font-size: 3rem;
+                font-family: $medium-font;
+                width: 761px;
+                height: 105px;
+                text-align: center;
+                margin: 120px auto 80px auto;
+            }
+            .list-box{
+                .Review--boxCustomer{
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    .avatar--customer{
+                        width: 72px;
+                        margin-bottom: 20px;
+                    }
+                    .name--customer{
+                        font-size: 1.5rem;
+                        font-family: $medium-font;
+                        font-weight: 600;
+                    }
+                    .company--customer{
+                        font-family: $min-font; 
+                        font-weight: 400;
+                        font-size: 0.8rem;
+                    }
+                    .review--customer{
+                        font-family: $min-font;
+                        font-weight: 500;
+                        width: 587px;
+                        text-align: center;
+                        margin: 30px 0;
+                    }
+                    .list--star{
+                        width: 160px;
+                        padding-bottom: 120px;
+                    }
+                }
             }
         }
     }
