@@ -242,6 +242,15 @@ main{
                 margin: 120px auto 80px auto;
             }
             .list-box{
+                display: flex;
+                .box-right, .box-left{
+                    opacity: 0.5; /* Làm mờ */
+                    overflow: hidden; /* Ẩn phần nội dung vượt ra ngoài của container */
+                    white-space: nowrap;
+                }
+                .box-main{
+                    margin: 0 200px;
+                }
                 .Review--boxCustomer{
                     display: flex;
                     flex-direction: column;
@@ -261,6 +270,7 @@ main{
                         font-size: 0.8rem;
                     }
                     .review--customer{
+                        white-space: normal;
                         font-family: $min-font;
                         font-weight: 500;
                         width: 587px;
