@@ -1,4 +1,4 @@
-@use "../abstracts/variables" as *;
+@use "../abstracts/" as *;
 
 main{
     .text-blue{
@@ -285,6 +285,25 @@ main{
             }
         }
     }
-
-    
+    @include tablet{
+        .Working_process-list{
+            flex-wrap: wrap !important;
+            .Working_process--3{
+                position: relative;
+                left: 30%;
+                padding-top: 60px;
+            }
+        }
+        .Introduction-detailed{
+            img{
+                width: 350px !important;
+            }
+        }
+        .Share--image-nav{
+            .box-hide, .icon-next--right{
+                display: none;
+            }
+            
+        }
+    } 
 }
