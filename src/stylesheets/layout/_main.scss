@@ -306,4 +306,84 @@ main{
             
         }
     } 
+    // mobile
+    @include mobile{
+        .Working_process{
+            .Working_process-title p{
+                width: auto;
+            }
+            .Working_process-list{
+                flex-direction: column;
+                div{
+                    padding-bottom: 60px;
+                }
+            }
+            .Preferential--blue{
+                margin-top: 0;
+            }
+            .Preferential--blue h2, p{
+                width: auto !important;
+            }
+            .Introduce p{
+                width: 320px !important;
+            }
+            .Introduction-detailed{
+                flex-direction: column;
+                img{
+                    width: 100%;
+                    height: 400px;
+                    border-radius: 8px 0 0 8px;
+                }
+                .Introduction--text{
+                    width: 100%;
+                    height: auto;
+                    margin: 60px 20px 0 20px;
+                    .Introduction-main{
+                        padding-right: 35px;
+                    }
+                }
+            }
+            .Share{
+                position: relative;
+                .Introduce{
+                    padding-top: 50px;
+                    margin-top: 50px;
+                    margin-bottom: 30px;
+                }
+                .Share--nav{
+                    position: absolute;
+                    left: 0;
+                }
+                .Share--image-nav{
+                    margin-top: 150px;
+                    margin-left: 15px;
+                    width: 150%;
+                    .mobile-hide{
+                        display: none;
+                    }
+                    .Image--nav__box{
+                        width: 300px;
+                    }
+                }
+                .icon-next--right{
+                    display: none;
+                }
+            }
+            .ReviewCustomers{
+                h2{
+                    width: auto;
+                    font-size: 2rem;
+                }
+                .list-box{
+                    .box-left, .box-right{
+                        display: none;
+                    }
+                    .box-main{
+                        margin: 0 15px;
+                    }
+                }
+                
+            }
+        } 
+    }
 }
