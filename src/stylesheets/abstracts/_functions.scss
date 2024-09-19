@@ -1,1 +1,10 @@
 @use "sass:math";
+@function pxToPercent($px){
+    @return ($px*100)/ $screen;
+}
+
+
+// px-to-rem
+@function pxToRem($px, $rem: 16) {
+  @return math.div($px, $rem) * 1rem;
+}

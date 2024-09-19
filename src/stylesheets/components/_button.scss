@@ -1,0 +1,4 @@
+@use "../abstracts" as *;
+.btn{
+    @include styleButton(145px,46px);
+}

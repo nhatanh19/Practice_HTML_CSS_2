@@ -1,0 +1,93 @@
+92
+85E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\pages133689044498550861 1
+88E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\package.json133688983438087926 0
+120E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Rectangle 9 (1).png133688983439329513 0
+86E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\.gitignore133689038627382830 0
+87E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\.posthtmlrc133688983438087926 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Ellipse 5.png133688983439013170 0
+83E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\.sassrc133688983438087926 0
+93E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\package-lock.json133689038627382830 0
+85E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\README.md133688983438087926 0
+79E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src133689038380659206 1
+86E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets133689038380078929 1
+86E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\layout133689044498540857 1
+92E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons133689046251053336 1
+96E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\pages\index.html133689045262310510 0
+91E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets133689039336817381 1
+101E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\abstracts133689044498560863 1
+96E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\layout\main.html133689045262310510 0
+96E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\base133689044498570856 1
+93E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images133689038380417187 1
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Ellipse 5.png133688983438407988 0
+102E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\components133689046252411375 1
+98E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\layout133689044498570856 1
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\abstracts\_mixins.scss133689045262320506 0
+101E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\main.scss133689038627539400 0
+97E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\pages133689039336845125 1
+100E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet133689038380464287 1
+108E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\pages\_home.scss133689038627539400 0
+109E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\pages\_index.scss133689038627539400 0
+108E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\base\_index.scss133689038627382830 0
+111E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\layout\_footer.scss133688983439454317 0
+109E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\layout\_main.scss133689045262330501 0
+111E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\layout\_header.scss133689045262330501 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Group 18.png133689038282961370 0
+121E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Background-home.png133689038627382830 0
+110E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\layout\_index.scss133688983439454317 0
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\components\_button.scss133689038627539400 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Frame 10.png133688983438437972 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\components\_index.scss133689038627539400 0
+108E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\base\_reset.scss133688983439431902 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\base\_boilerplate.scss133688983439431902 0
+113E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\base\_typography.scss133689045262320506 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\abstracts\_functions.scss133689038627382830 0
+113E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\abstracts\_index.scss133688983439421886 0
+118E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Rectangle 9 2.png133688983438993155 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\stylesheets\abstracts\_variables.scss133689045262320506 0
+98E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\layout\footer.html133688983439399642 0
+116E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Rectangle 9.png133688983439003164 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Rectangle 16.png133688983439309502 0
+110E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Black.ttf133688983438111533 0
+98E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\layout\header.html133689038627382830 0
+92E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts133689038379981818 1
+101E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop133689038816269408 1
+100E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile133689038380395459 1
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Rectangle 10.png133688983439163177 0
+120E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Rectangle 9 (2).png133688983439359498 0
+116E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\tablet\Rectangle 9.png133688983439399642 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Ellipse 5.png133688983438813246 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Rectangle 10.png133688983438893153 0
+118E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Rectangle 10.png133688983438713132 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Rectangle 16.png133688983438953168 0
+120E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\mobile\Rectangle 9 (2).png133688983438963169 0
+116E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Background.png133689038627382830 0
+121E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Rectangle 9 (1).png133688983438743123 0
+121E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Rectangle 9 (2).png133688983438773123 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Rectangle 9.png133688983438803122 0
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\images\desktop\Rectangle.png133689038627382830 0
+113E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\CaretDoubleRight.png133689045262300506 0
+113E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\CaretDoubleRight.svg133689038627382830 0
+106E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\Ellipse 2.svg133688983438387934 0
+117E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-MediumItalic.ttf133688983438317927 0
+105E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\Frame 19.svg133689038627382830 0
+105E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\Group 28.svg133688983438387934 0
+105E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\Group 30.svg133688983438397972 0
+105E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\Group 32.svg133688983438397972 0
+107E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\menu-black.png133689038627382830 0
+101E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\icons\menu.png133689038627382830 0
+116E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-BlackItalic.ttf133688983438129998 0
+109E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Bold.ttf133688983438148469 0
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-BoldItalic.ttf133688983438157891 0
+114E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-ExtraBold.ttf133688983438180972 0
+120E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-ExtraBoldItalic.ttf133688983438199452 0
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-ExtraLight.ttf133688983438217911 0
+121E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-ExtraLightItalic.ttf133688983438240994 0
+111E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Italic.ttf133688983438259948 0
+110E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Light.ttf133688983438269183 0
+116E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-LightItalic.ttf133688983438287886 0
+111E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Medium.ttf133688983438301545 0
+112E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Regular.ttf133688983438327953 0
+113E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-SemiBold.ttf133688983438337985 0
+119E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-SemiBoldItalic.ttf133688983438357936 0
+109E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-Thin.ttf133688983438367983 0
+115E:\Code HTML CSS Training\upload code new repo\new repo\Practice_HTML_CSS_2\src\assets\fonts\Poppins-ThinItalic.ttf133688983438387934 0
