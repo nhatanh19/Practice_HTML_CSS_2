@@ -8,7 +8,7 @@
 }
 header{
     width: 100%;
-    height: pxToRem(853);
+    //height: pxToRem(853);
     background-image: linear-gradient(0, white,  rgba(222, 219, 219, 0.749)), url(../assets/images/desktop/Background-home.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -160,16 +160,18 @@ header{
             }
             .header-main__image-bg--bottom{
                 width: auto;
+                height: auto;
                 .image-bg--top{
                     height: auto;
                     width: 90%;
                 }
-                .image-bg--bottom{
-                    right: 5%;
+                    right: 38%;
                 }
             }
-        }      
+        }
+        
     }
+
     // Responsive Tablet
     @include tablet{
         .header-container {
@@ -179,13 +181,16 @@ header{
                     margin-left: 0;
                     padding-right: 5%;
                 }
-            }            
+            }
+            
             .header-container_user{
                 padding-right: 1rem;
                 img{
                     display: none;
                 }
             }
+
+
             .header-container_logo{
                 margin-left: 1.2rem;
             }
@@ -193,7 +198,8 @@ header{
                 display: block;
                 width: 50%;
             }
-        }        
+
+        }
     }
 }
 
